@@ -1,7 +1,5 @@
 // example of using p5 random()
 
-var img;
-
 function setup() {
 	createCanvas(640, 480);
 	noStroke();
