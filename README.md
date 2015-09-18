@@ -5,5 +5,6 @@
 > Update the link above by replacing second `PUCD2035-E-F15` with your github name. Delete these instructions when you post.
 
 ![Output](output.png)
+![Output](output2.png)
 
 ^ replace output.png with a screen-grab of your program's drawing. Add a second image to show off the variation your program produces.
